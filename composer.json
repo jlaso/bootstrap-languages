@@ -1,0 +1,8 @@
+{
+    "name": "usrz/bootstrap-languages",
+    "type": "theme",
+    "description": "bootstrap-languages",
+    "keywords": ["bootstrap", "languages"],
+    "license": "Apache",
+    "minimum-stability": "dev"
+}
